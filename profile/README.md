@@ -5,6 +5,11 @@ He offers a comprehensive suite of support and integration services to enhance t
 
 Also he is known for his expertise in event stream processing on large scale in distributed environments where failures do exist.
 
+We also offer the Fastest Cloud and Database Solutions compared to any Compitor you name it. We do not need to List any one here.
+Your invited to test us and benchmark it we like the challenges. We masure consistent Weekly against most popular Cloud and Database Providers as also Development Workflows and Frameworks. 
+
+If you want to create and run Top Notch Software with less Administrativ Operational Overhead and much faster time to market via uncompare able Software Deployment and Execution Speed you found the right Partner.
+
 <!--
 
 **Here are some ideas to get you started:**
