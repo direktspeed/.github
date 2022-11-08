@@ -10,6 +10,8 @@ Your invited to test us and benchmark it we like the challenges. We masure consi
 
 If you want to create and run Top Notch Software with less Administrativ Operational Overhead and much faster time to market via uncompare able Software Deployment and Execution Speed you found the right Partner.
 
+This github projects and pages do in fact work as a demo and also production endpoint at the same time as we connect cloud providers indipendent from the hosting backend it is no security issue to host this on github and use directly the github project and organisational pages as entrance even to production apps. And as everything here is top notch modular a git clone allows you to self host no additional problems or obfusications attached everything open for auditing!
+
 <!--
 
 **Here are some ideas to get you started:**
