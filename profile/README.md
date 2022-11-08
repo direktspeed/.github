@@ -1,5 +1,5 @@
 ## Welcome to [github.dspeed.eu](https://github.dspeed.eu)  👋
-DIREKTSPEED is a Commercial Software Platform offer from Frank Lemanschik a Software and Hardware Consultant from Europe.
+DIREKTSPEED Software and Cloud Platform a brand of Frank Lemanschik a Leading Software and Hardware Consultant from Europe with over 30+ years expirence.
 
 He offers a comprehensive suite of support and integration services to enhance the speed and quality of any Software Development or deployment Process — regardless of which Platforms and Architectures you chose to target. Whether you sourced from the Diffrent Stealify Supported Projects, or from another commercial and or Opensource vendor, DIREKTSPEED combines deep expertise in Linux/Windows/FuchsiaOS/Android so that can help with the delivery of awsome commercial solutions.
 
