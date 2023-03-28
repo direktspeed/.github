@@ -1,5 +1,15 @@
 ## Welcome to [github.dspeed.eu](https://github.dspeed.eu)  👋
 DIREKTSPEED Software and Cloud Platform a brand of Frank Lemanschik a Leading Software and Hardware Consultant from Europe with over 30+ years expirence.
+it also gets often referenced as DSPEED but has nothing todo with that coin/token.
+
+DIREKTSPEED is the creator of AwesomeOS to host secure software and a new breed of open internet services based on WInterOP Runtimes.
+eg: The Browser.
+
+This allows you to truly go serverless. It offers a Unified Network, Multi CPU Arch Containerization Layer, FileSystem and many more.
+
+It allows you to build products like StackBlitz or "DFINITY's Internet Computer" but fully in the browser without servers to Deploy
+and Build and Serve your Services. Great for the co2 Footprint of the Earth and saves a lot of Money as it moves computation to the edge.
+Where the real Data exists.
 
 He offers a comprehensive suite of support and integration services to enhance the speed and quality of any Software Development or deployment Process — regardless of which Platforms and Architectures you chose to target. Whether you sourced from the Diffrent Stealify Supported Projects, or from another commercial and or Opensource vendor, DIREKTSPEED combines deep expertise in Linux/Windows/FuchsiaOS/Android so that can help with the delivery of awsome commercial solutions.
 
